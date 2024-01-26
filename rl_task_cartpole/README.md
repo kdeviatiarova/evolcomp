@@ -19,7 +19,8 @@ if not done:
 ```
 
 ## Video Demonstration
-[![Video Demonstration]](rendered_video.mp4)
+[Watch Video](rendered_video.mp4)
+
 
 ## TensorBoard Plots
 ![1](1.png)
