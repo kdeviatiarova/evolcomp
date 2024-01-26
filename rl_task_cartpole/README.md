@@ -19,7 +19,7 @@ if not done:
 ```
 
 ## Video Demonstration
-[Watch Video](rendered_video.mp4)
+<video width="630" height="300" src="https://github.com/kdeviatiarova/evolcomp/blob/9d78612f28b6d10712e77b3b8e7ca3aef79005ea/rl_task_cartpole/rendered_video.mp4"></video>
 
 
 ## TensorBoard Plots
