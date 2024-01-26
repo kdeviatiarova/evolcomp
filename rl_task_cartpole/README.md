@@ -1,5 +1,7 @@
 # CartPole Left Right Task and Report
 
+## by Ekaterina Deviatiarova
+
 ## Task Description
 
 The task is called CartPole Left Right. You need to change classic CartPole environment in such a wat that it will have a goal (0 or 1) and Cart should balance the Pole in correspond sides of platform (0 - left, 1 - right). The goal implementation is already provided for you. The main goal is to implement reward function that will help agent to do this.
@@ -19,8 +21,7 @@ if not done:
 ```
 
 ## Video Demonstration
-<video width="630" height="300" src="https://github.com/kdeviatiarova/evolcomp/blob/9d78612f28b6d10712e77b3b8e7ca3aef79005ea/rl_task_cartpole/rendered_video.mp4"></video>
-
+[Video Link](https://drive.google.com/file/d/1znFee126-dVgr0SQEYl7YmLwQFB3TVY7/view?usp=sharing)
 
 ## TensorBoard Plots
 ![1](1.png)
